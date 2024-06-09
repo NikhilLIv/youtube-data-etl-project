@@ -96,7 +96,7 @@ The project follows these major steps:
 ## Repository Structure
 
 ```
-youtube-data-etl/
+youtube-data-etl-project/
 ├── glue-scripts/
 │   ├── clean_video_data.py
 │   ├── clean_category_data.py
